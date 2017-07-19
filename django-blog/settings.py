@@ -26,7 +26,7 @@ SECRET_KEY = '6_+%2f7$(67v=!^fr$z3f#7ed@uwmxxgg_%xwip)_t6l3(6cm@'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-yugov.pythonanywhere.com,
+'yugov.pythonanywhere.com',
 ]
 
 
